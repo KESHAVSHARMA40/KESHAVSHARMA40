@@ -35,12 +35,12 @@ Currently diving deeper into frontend frameworks, user authentication, and gaini
 ### 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_title=false&count_private=true" alt="Keshav's GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=tokyonight&hide_border=false" alt="Keshav's GitHub Streak" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KESHAVSHARMA40&show_icons=true&theme=tokyonight&hide_title=false&count_private=true" alt="Keshav's GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KESHAVSHARMA40&theme=tokyonight&hide_border=false" alt="Keshav's GitHub Streak" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KESHAVSHARMA40&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 ---
