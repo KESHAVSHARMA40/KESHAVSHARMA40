@@ -7,7 +7,7 @@ I'm passionate about crafting clean and user-friendly web experiences. With a gr
 ---
 
 ### 🔭 Current Focus
-Currently diving deeper into frontend frameworks, user authentication, and building full-stack applications. I'm also learning how to use AI tools to enhance my productivity and automate tasks.
+Currently diving deeper into frontend frameworks, user authentication, and gaining knowledge in the field of CyberSecurity. I'm also learning how to use AI tools to enhance my productivity and automate tasks.
 
 ---
 
@@ -17,8 +17,8 @@ Currently diving deeper into frontend frameworks, user authentication, and build
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
+
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
@@ -26,11 +26,7 @@ Currently diving deeper into frontend frameworks, user authentication, and build
 
 ### 🚀 Featured Projects
 
-#### [🗂️ To-Do List App](https://github.com/your-username/todo-app)  
-A sleek, responsive to-do list application with dark mode support. Built with HTML, CSS, and JavaScript to help users manage daily tasks efficiently.
 
-#### [🌐 Travel Agency Website](https://github.com/your-username/travel-agency)  
-Business website for a local air ticketing business. Includes contact features via WhatsApp and responsive service pages. Built using React and Vite.
 
 <!-- Add more projects here -->
 
