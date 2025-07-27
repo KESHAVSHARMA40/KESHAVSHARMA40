@@ -17,8 +17,6 @@ Currently diving deeper into frontend frameworks, user authentication, and gaini
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-
-
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
@@ -62,7 +60,7 @@ Outside of coding, I enjoy discovering tech gadgets, working on personal growth,
 
 ---
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=your-username&label=Profile+Views&color=blue&style=flat)
+![Visitor Badge](https://komarev.com/ghpvc/?username=KESHAVSHARMA40&label=Profile+Views&color=blue&style=flat)
 
 🔁 *Let's connect, collaborate, and create amazing things together!*
 
