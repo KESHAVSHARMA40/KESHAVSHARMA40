@@ -31,14 +31,21 @@ Currently diving deeper into Python programming. I'm also learning how to use AI
 
 ### 📈 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KESHAVSHARMA40&show_icons=true&theme=tokyonight&hide_title=false&count_private=true" alt="Keshav's GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KESHAVSHARMA40&theme=tokyonight&hide_border=false" alt="Keshav's GitHub Streak" height="180" />
-</p>
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=KESHAVSHARMA40&show_icons=true&theme=tokyonight&count_private=true" 
+    alt="GitHub Stats" 
+    height="170" 
+  />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KESHAVSHARMA40&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</p>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=KESHAVSHARMA40&theme=tokyonight" 
+    alt="GitHub Streak" 
+    height="170" 
+  />
+
+</div>
 
 ---
 
