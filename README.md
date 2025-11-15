@@ -23,11 +23,13 @@ Currently diving deeper into Python programming. I'm also learning how to use AI
 
 ### 🚀 Featured Projects
 
+#### 🔹 Project 1: SmartUtilityConsole  
+A modular command-line utility suite featuring a Discount Calculator, Loan Eligibility Evaluator, and Electricity Bill Estimator.  
+Built with clean, structured Python and designed for real-world decision-making scenarios.  
+**Tech Stack:** Python, Conditionals, Input Handling, CLI Design  
+**Repo:** "https://github.com/KESHAVSHARMA40/Python-practise.git"
 
-
-
-
-
+---
 
 ### 📈 GitHub Stats & Activity
 
