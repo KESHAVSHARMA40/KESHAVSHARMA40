@@ -1,13 +1,24 @@
-# 👋 Hi, I'm Keshav Sharma
-
-### 💻 Web Developer based in Toronto, Canada 🇨🇦
-
-I'm passionate about crafting clean and user-friendly web experiences. With a growing skillset in modern web development technologies, I love building real-world solutions that solve problems and improve digital interactions.
+<h1 align="center">Hi, I'm Keshav Sharma 👋</h1>
+<p align="center">Aspiring Backend Developer | Python Learner | Focused on Building Real Skills</p>
 
 ---
 
-### 🔭 Current Focus
-Currently diving deeper into Python programming. I'm also learning how to use AI tools to enhance my productivity and automate tasks.
+## 🧭 Professional Summary
+Motivated beginner developer transitioning into **Backend Engineering** with strong fundamentals in Python and practical problem-solving.  
+I focus on writing clean logic, building real-world projects, and developing job-ready skills step by step.
+
+---
+
+## 🗂️ Featured Project – Smart Utility Console *(Project-1)*
+**Repo:** "https://github.com/KESHAVSHARMA40/Python-practise.git"
+A menu-driven Python application containing 4+ practical utilities:
+- Discount Calculator  
+- Loan Eligibility Checker  
+- Electricity Bill Calculator  
+- Temperature Alert System  
+
+**Skills Demonstrated:**  
+Conditional logic, clean input handling, structured code, real-world thinking.
 
 ---
 
@@ -21,48 +32,73 @@ Currently diving deeper into Python programming. I'm also learning how to use AI
 
 ---
 
-### 🚀 Featured Projects
+# 📅 Learning Timeline
 
-#### 🔹 Project 1: SmartUtilityConsole  
-A modular command-line utility suite featuring a Discount Calculator, Loan Eligibility Evaluator, and Electricity Bill Estimator.  
-Built with clean, structured Python and designed for real-world decision-making scenarios.  
-**Tech Stack:** Python, Conditionals, Input Handling, CLI Design  
-**Repo:** "https://github.com/KESHAVSHARMA40/Python-practise.git"
+### **2025 — Current (Active Phase)**  
+**Python Foundations**
+- Variables, Datatypes, Operators  
+- Strings, Indexing, Slicing  
+- User Input Handling  
+- Conditional Statements  
+- Lists, Tuples, Dictionaries  
+- Loops + Logic Building  
+- Project-1 and Project-2
+
+**Goal:** Build strong base + complete 2–3 real projects.
+
+### **Upcoming (Next 2–3 Months)**  
+**Backend Development Roadmap**
+- Python OOP  
+- Modules & Packages  
+- Error Handling  
+- File Handling  
+- Flask / FastAPI  
+- REST API basics  
+- Connecting Python with SQL databases  
+- Authentication basics (JWT / Sessions)  
+
+**Goal:** Build and deploy first backend API.
 
 ---
 
-### 📈 GitHub Stats & Activity
+## 📈 GitHub Performance
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KESHAVSHARMA40&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KESHAVSHARMA40&theme=tokyonight" height="170" />
+</p>
 
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=KESHAVSHARMA40&show_icons=true&theme=tokyonight&count_private=true" 
-    alt="GitHub Stats" 
-    height="170" 
-  />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KESHAVSHARMA40&layout=compact&theme=tokyonight" height="170" />
+</p>
 
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=KESHAVSHARMA40&theme=tokyonight" 
-    alt="GitHub Streak" 
-    height="170" 
-  />
+---
 
-</div>
+## 🛠️ Technical Skills (Growing)
+
+### **Languages & Tools**
+- Python  
+- Git & GitHub  
+- VS Code  
+
+### **Python Concepts**
+- Data Types & Operators  
+- Conditionals  
+- Lists, Tuples, Dictionaries  
+- Loops  
+- Basic Problem Solving  
 
 ---
 
 ### 📫 Contact Me
 
-- 📧 Email: [k.sharmayyz@gmail.com]  
-- 💼 [LinkedIn](https://www.linkedin.com/in/keshavsharmayyz4041/)  
+- 📧 **Email:** [k.sharmayyz@gmail.com]  
+- 💼 **LinkedIn:** (https://www.linkedin.com/in/keshavsharmayyz4041/)  
   
 
 
 ---
 
-### ⚡ Fun Fact
-
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+<p align="center">⚡ “Consistency turns beginners into professionals.”</p>
 
 Outside of coding, I enjoy discovering tech gadgets, working on personal growth, and exploring the intersection of AI and security.
 
